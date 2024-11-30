@@ -1,3 +1,3 @@
 # patata
 ykujthrgefabtsrynrjthdrgbdtr
-[sonidos / samples](README.md)
+[sonidos / samples](sonidos/README.md)
