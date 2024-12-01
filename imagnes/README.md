@@ -1,7 +1,7 @@
 ## imagenes
 
 + https://github.com/Cynamomd/patata/blob/main/imagnes/CACOPHONY.jpeg?raw=true 
-  + https://github.com/Cynamomd/patata/blob/main/imagnes/Circuit%20Board%20Fossils,%20Paintings%20and%20Other%20Found%20Object%20Sculptures%20by%20Peter%20McFarlane.jpeg?raw=true
++https://github.com/Cynamomd/patata/blob/main/imagnes/Circuit%20Board%20Fossils,%20Paintings%20and%20Other%20Found%20Object%20Sculptures%20by%20Peter%20McFarlane.jpeg?raw=true
 + https://github.com/Cynamomd/patata/blob/main/imagnes/Designer%20(12).jpeg?raw=true
 + https://github.com/Cynamomd/patata/blob/main/imagnes/Designer%20(5).jpeg?raw=true
 + https://github.com/Cynamomd/patata/blob/main/imagnes/Designer%20(6).jpeg?raw=true
